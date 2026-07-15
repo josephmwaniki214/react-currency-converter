@@ -2,7 +2,7 @@
 
 ## Screenshot
 
-![Currency Converter](images/screenshot.png)
+![Currency Converter](images/converter.jpg)
 
 A responsive currency converter built with React and Vite.
 
